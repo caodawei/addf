@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="a.xml" value="44c50c5f-dd2c-43b9-bffb-f14cd6565ed0" />
+          <unit-entry name="hibernate.cfg.xml" />
+          <unit-entry name="noname-applicationContext.xml@1001" />
+          <unit-entry name="noname-applicationContext.xml@979" />
+          <unit-entry name="src:main:resource:hibernate.cfg.xml" value="44c50c5f-dd2c-43b9-bffb-f14cd6565ed0" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resource/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
